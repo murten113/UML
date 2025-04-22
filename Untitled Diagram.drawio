@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="Jg1G5KRAyYiAgFgJb2dp">
-    <mxGraphModel dx="3033" dy="1618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1213" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,11 +100,14 @@
         <mxCell id="Dsg_o_IE5TANmwMvnrTC-22" value="&lt;b&gt;SatisfiedBy&lt;/b&gt;&lt;div&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt; PowerSubsystem&lt;/div&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeWidth=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1002" y="825" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Dsg_o_IE5TANmwMvnrTC-23" value="Game System" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+        <mxCell id="Dsg_o_IE5TANmwMvnrTC-23" value="Stardew Valley Game Systems" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="1510" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uuBbga-3ehNSniJntd48-1" value="https://docs.google.com/document/d/150JFzQ6OHrbpK8g9t-n8S7wMcuwBJd2IHWneivzzOd0/edit?usp=sharing" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="42" y="80" width="1510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uuBbga-3ehNSniJntd48-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 10px ; text-align: left&quot;&gt;&lt;b&gt;Farming System&lt;/b&gt;&lt;/p&gt;" style="html=1;strokeWidth=1;shape=mxgraph.sysml.package;html=1;overflow=fill;whiteSpace=wrap;fillColor=none;gradientColor=none;fontSize=12;align=center;labelX=327.64;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="980" width="940" height="590" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
